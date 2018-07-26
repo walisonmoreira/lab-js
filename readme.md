@@ -1,6 +1,6 @@
 # Lab JS
 
-Experimentos com o JavaScript.
+Experimentos com JavaScript.
 
 ## Links
 
